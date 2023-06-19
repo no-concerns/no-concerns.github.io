@@ -7,7 +7,7 @@ body, html {
   background: #fff;
 }
 
-.logo-container {
+.nc-image-container {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -15,7 +15,7 @@ body, html {
   width: 100%;
 }
 
-.logo {
+.nc-image {
   max-width: 100%;
   max-height: 100%;
 }
